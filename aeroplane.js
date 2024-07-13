@@ -1,5 +1,5 @@
-const AMADEUS_API_KEY = 'dJ8eZtNAvjW5ZsH3BfPRjXz1g4sY7nYA';
-const AMADEUS_API_SECRET = 'glDvA6IyocuuqLyA';
+const AMADEUS_API_KEY = 'API_KEY';
+const AMADEUS_API_SECRET = 'SECRET_KEY';
 
 let accessToken = '';
 
